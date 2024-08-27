@@ -9,3 +9,8 @@
 
 ### （3）运行
 `python OCR.py`
+
+### （4）具体背景知识
+[PaddleOCR使用文档](https://github.com/PaddlePaddle/PaddleOCR)
+
+[T5Corrector-base-v2使用文档](https://hf-mirror.com/Maciel/T5Corrector-base-v2)
